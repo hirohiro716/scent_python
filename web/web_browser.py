@@ -1,4 +1,4 @@
-import scent
+import scent_python as scent
 import webview
 import time
 import datetime

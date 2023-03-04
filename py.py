@@ -1,4 +1,4 @@
-import scent
+import scent_python as scent
 import abc
 import importlib
 from importlib import util as importlib_util
